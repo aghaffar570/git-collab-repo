@@ -1,1 +1,1 @@
-console.log('ag demo git collab')
+console.log('let\'s create a conflict!')
